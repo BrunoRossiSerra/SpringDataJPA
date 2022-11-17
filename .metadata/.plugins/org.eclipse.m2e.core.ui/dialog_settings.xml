@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\Estudante\Pictures\spring-datajpa"/>
 			<item value="C:\Users\Estudante\Downloads\spring-datajpa"/>
 		</list>
 		<list key="projectNameTemplate">
